@@ -1,4 +1,4 @@
-# This is the repository for the Python files used in the experiments conducted by the UENF gas research group.
+# This is the repository for the Python files used in the N2O and NH3 experiments conducted by the UENF gas research group.
 
 # Only students and professors have access to this repository.
 
